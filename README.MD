@@ -1,1 +1,2 @@
 POZOS COMPANY
+gitignore
